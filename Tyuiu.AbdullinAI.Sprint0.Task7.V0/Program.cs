@@ -12,7 +12,7 @@ namespace Tyuiu.AbdullinAI.Sprint0.Task7.V0
         static void Main(string[] args)
         {
 
-            Console.Title = "Спринт #0 | Выполнил:  | АСОиУБ-23-1";
+            Console.Title = "Спринт #0 | Выполнил: Абдуллин А. И.  | АСОиУБ-23-1";
             //Длина строки 75 символов
             Console.WriteLine("************************************************************************");
             Console.WriteLine("* Спринт #0                                                            *");
